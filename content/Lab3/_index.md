@@ -1,5 +1,5 @@
 ---
-title: "LAB 3"
+title: "EKS"
 chapter: true
 weight: 70
 tags:
