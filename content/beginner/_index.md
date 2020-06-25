@@ -3,7 +3,7 @@ title: "Agenda"
 chapter: true
 weight: 50
 tags:
-  - beginner
+  - LAB 1
 ---
 
 # Beginner
