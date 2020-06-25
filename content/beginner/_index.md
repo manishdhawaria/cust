@@ -1,5 +1,5 @@
 ---
-title: "Beginner"
+title: "Agenda"
 chapter: true
 weight: 50
 tags:
